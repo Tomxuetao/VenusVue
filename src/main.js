@@ -3,8 +3,8 @@ import App from '@/App'
 import router from '@/router' // api: https://github.com/vuejs/vue-router
 import store from '@/store' // api: https://github.com/vuejs/vuex
 import VueCookie from 'vue-cookie' // api: https://github.com/alfhen/vue-cookie
-import '@/plugins/element-ui' // api: https://github.com/ElemeFE/element
 import '@/icons' // api: http://www.iconfont.cn/
+import '@/plugins/element-ui' // api: https://github.com/ElemeFE/element
 import '@/plugins/element-ui-theme'
 import '@/assets/scss/index.scss'
 import httpRequest from '@/utils/httpRequest' // api: https://github.com/axios/axios

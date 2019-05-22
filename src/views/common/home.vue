@@ -32,7 +32,7 @@
 </template>
 
 <script>
-    export default {}
+export default {}
 </script>
 
 <style>
@@ -40,4 +40,3 @@
         line-height: 1.5;
     }
 </style>
-
